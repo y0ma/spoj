@@ -2,7 +2,7 @@
 	379. Ambiguous Permutations
 	Problem code: PERMUT2
 	
-	Link: https://www.spoj.pl/problems/PERMUT2/
+	Link: http://www.spoj.pl/problems/PERMUT2/
 */
 
 #include <stdio.h>

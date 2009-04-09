@@ -2,7 +2,7 @@
 	74. Divisor Summation
 	Problem code: DIVSUM
 	
-	Link: https://www.spoj.pl/problems/DIVSUM/
+	Link: http://www.spoj.pl/problems/DIVSUM/
 */
 
 #include <stdio.h>
