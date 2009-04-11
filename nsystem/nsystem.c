@@ -1,3 +1,10 @@
+/*
+	1699. Numeral System
+	Problem code: NSYSTEM
+	
+	Link: http://www.spoj.pl/problems/NSYSTEM
+*/
+
 #include <stdio.h>
 
 #define MAXSIZE (10)
